@@ -1,0 +1,9 @@
+{
+  "name": "CSON Database",
+  "author": "Reuben Tier",
+  "npmDependencies": {
+    "cson": "^7.20.0",
+    "ijo-utils": "github:ijo-sm/ijo-utils"
+  },
+  "index": "src/index.js"
+}
